@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Smoke and Regression Test Suite">
+<listeners>
+<listener class-name="Utilities.ExtentReportManager"></listener>
+</listeners>
+<test thread-count="10" name="Smoke Tests"> 
+<parameter name="os" value="windows" />
+<parameter name="browser" value="Chrome"></parameter>
+<classes>
+       <class name="TestCase.TC_001_FindDoctors"/>
+       <class name="TestCase.TC_002_Surgeries"/>
+       <class name="TestCase.TC_003_Wellness"/>   
+</classes>
+</test> <!-- Test -->
+<test thread-count="10" name="Regression Tests"> 
+<parameter name="os" value="windows" />
+<parameter name="browser" value="Chrome"></parameter>
+<classes>
+       <class name="TestCase.TC_001_FindDoctors"/>
+       <class name="TestCase.TC_002_Surgeries"/>
+       <class name="TestCase.TC_003_Wellness"/>   
+</classes>
+</test> <!-- Test -->
+</suite> <!-- Suite -->

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+<listeners>
+<listener class-name="Utilities.ExtentReportManager"></listener>
+</listeners>
+<parameter name="os" value="windows" />
+<parameter name="browser" value="Chrome"/>
+<test thread-count="10" name="Test"> 
+<classes>
+       <class name="TestCase.TC_001_FindDoctors"/>
+       <class name="TestCase.TC_002_Surgeries"/>
+       <class name="TestCase.TC_003_Wellness"/>  
+</classes>
+</test> <!-- Test -->
+</suite> <!-- Suite -->
