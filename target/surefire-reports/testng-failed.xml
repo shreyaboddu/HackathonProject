@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT" verbose="0">
+  <parameter name="os" value="windows"/>
+  <parameter name="browser" value="Chrome"/>
+  <listeners>
+    <listener class-name="Utilities.ExtentReportManager"/>
+  </listeners>
+  <test thread-count="5" name="Test(failed)" verbose="0">
+    <classes>
+      <class name="TestCase.TC_001_FindDoctors">
+        <methods>
+          <include name="Find_Doctors"/>
+          <include name="setup"/>
+          <include name="close"/>
+        </methods>
+      </class> <!-- TestCase.TC_001_FindDoctors -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

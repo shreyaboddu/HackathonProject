@@ -1,0 +1,63 @@
+15:56:55.782 [main] INFO  TestCase.TC_001_FindDoctors - List of Surgeries is dispalyed
+15:56:58.762 [main] INFO  TestCase.TC_001_FindDoctors - ---Corporates  is clicked---
+15:57:41.715 [main] INFO  TestCase.TC_001_FindDoctors - Wellness is clicked
+15:57:41.796 [main] INFO  TestCase.TC_001_FindDoctors - Scrolled
+15:57:44.090 [main] INFO  TestCase.TC_001_FindDoctors - Demo is Disabled
+15:57:45.577 [main] INFO  TestCase.TC_001_FindDoctors - Demo is Enabled
+16:06:43.094 [main] INFO  TestCase.TC_001_FindDoctors - ****starting TestCase001******
+16:06:51.787 [main] INFO  TestCase.TC_001_FindDoctors - Location clicked
+16:07:32.498 [main] INFO  TestCase.TC_001_FindDoctors - Cardiologist clicked
+16:07:33.208 [main] INFO  TestCase.TC_001_FindDoctors - patient stories and Experience selected
+16:07:33.556 [main] INFO  TestCase.TC_001_FindDoctors - fee option is clicked
+16:07:42.941 [main] INFO  TestCase.TC_001_FindDoctors - ---Sort option is selected---
+16:07:54.286 [main] INFO  TestCase.TC_001_FindDoctors - Avalability option is clicked
+16:08:28.021 [main] INFO  TestCase.TC_001_FindDoctors - Fetching and displaying top 5 doctors
+16:08:32.681 [main] INFO  TestCase.TC_001_FindDoctors - ---Click Surgeries---
+16:08:35.373 [main] INFO  TestCase.TC_001_FindDoctors - Scrolled
+16:08:37.870 [main] INFO  TestCase.TC_001_FindDoctors - Total no.of Surgeries
+16:08:48.931 [main] INFO  TestCase.TC_001_FindDoctors - List of Surgeries is dispalyed
+16:08:52.064 [main] INFO  TestCase.TC_001_FindDoctors - ---Corporates  is clicked---
+16:09:01.281 [main] INFO  TestCase.TC_001_FindDoctors - Wellness is clicked
+16:09:01.381 [main] INFO  TestCase.TC_001_FindDoctors - Scrolled
+16:09:05.756 [main] INFO  TestCase.TC_001_FindDoctors - Demo is Disabled
+16:09:07.250 [main] INFO  TestCase.TC_001_FindDoctors - Demo is Enabled
+14:55:30.301 [main] INFO  TestCase.TC_001_FindDoctors - ****starting TestCase001******
+14:56:23.259 [main] INFO  TestCase.TC_001_FindDoctors - Location clicked
+14:56:48.910 [main] INFO  TestCase.TC_001_FindDoctors - Cardiologist clicked
+14:56:49.908 [main] INFO  TestCase.TC_001_FindDoctors - patient stories and Experience selected
+14:56:50.369 [main] INFO  TestCase.TC_001_FindDoctors - fee option is clicked
+14:57:15.444 [main] INFO  TestCase.TC_001_FindDoctors - ---Sort option is selected---
+14:57:21.029 [main] INFO  TestCase.TC_001_FindDoctors - Avalability option is clicked
+14:57:34.423 [main] INFO  TestCase.TC_001_FindDoctors - Fetching and displaying top 5 doctors
+14:57:38.556 [main] INFO  TestCase.TC_001_FindDoctors - ---Click Surgeries---
+14:57:40.696 [main] INFO  TestCase.TC_001_FindDoctors - Scrolled
+14:57:42.736 [main] INFO  TestCase.TC_001_FindDoctors - Total no.of Surgeries
+14:57:49.708 [main] INFO  TestCase.TC_001_FindDoctors - List of Surgeries is dispalyed
+14:57:53.164 [main] INFO  TestCase.TC_001_FindDoctors - ---Corporates  is clicked---
+14:58:03.059 [main] INFO  TestCase.TC_001_FindDoctors - Wellness is clicked
+14:58:03.151 [main] INFO  TestCase.TC_001_FindDoctors - Scrolled
+14:58:06.415 [main] INFO  TestCase.TC_001_FindDoctors - Demo is Disabled
+14:58:08.313 [main] INFO  TestCase.TC_001_FindDoctors - Demo is Enabled
+17:26:19.032 [main] INFO  TestCase.TC_001_FindDoctors - ****starting TestCase001******
+17:27:39.548 [main] INFO  TestCase.TC_001_FindDoctors - ---Click Surgeries---
+17:27:41.653 [main] INFO  TestCase.TC_001_FindDoctors - Scrolled
+17:27:43.855 [main] INFO  TestCase.TC_001_FindDoctors - Total no.of Surgeries
+17:27:51.128 [main] INFO  TestCase.TC_001_FindDoctors - List of Surgeries is dispalyed
+17:27:54.072 [main] INFO  TestCase.TC_001_FindDoctors - ---Corporates  is clicked---
+17:28:17.447 [main] INFO  TestCase.TC_001_FindDoctors - Wellness is clicked
+17:28:17.517 [main] INFO  TestCase.TC_001_FindDoctors - Scrolled
+17:28:19.712 [main] INFO  TestCase.TC_001_FindDoctors - Demo is Disabled
+17:28:20.956 [main] INFO  TestCase.TC_001_FindDoctors - Demo is Enabled
+17:32:41.499 [main] INFO  TestCase.TC_001_FindDoctors - ****starting TestCase001******
+17:32:49.874 [main] INFO  TestCase.TC_001_FindDoctors - Location clicked
+17:33:14.800 [main] INFO  TestCase.TC_001_FindDoctors - Cardiologist clicked
+17:33:15.434 [main] INFO  TestCase.TC_001_FindDoctors - patient stories and Experience selected
+17:33:15.719 [main] INFO  TestCase.TC_001_FindDoctors - fee option is clicked
+17:33:18.865 [main] INFO  TestCase.TC_001_FindDoctors - ---Sort option is selected---
+17:33:24.213 [main] INFO  TestCase.TC_001_FindDoctors - Avalability option is clicked
+17:33:50.653 [main] INFO  TestCase.TC_001_FindDoctors - Fetching and displaying top 5 doctors
+17:33:53.437 [main] INFO  TestCase.TC_001_FindDoctors - ---Click Surgeries---
+17:33:55.509 [main] INFO  TestCase.TC_001_FindDoctors - Scrolled
+17:33:57.549 [main] INFO  TestCase.TC_001_FindDoctors - Total no.of Surgeries
+17:34:01.076 [main] INFO  TestCase.TC_001_FindDoctors - List of Surgeries is dispalyed
+17:34:04.238 [main] INFO  TestCase.TC_001_FindDoctors - ---Corporates  is clicked---

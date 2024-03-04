@@ -2,7 +2,7 @@
 <testng-results ignored="4" total="7" passed="3" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-03-04T14:55:06 IST" name="Suite" finished-at="2024-03-04T14:58:52 IST" duration-ms="225954">
+  <suite started-at="2024-03-04T17:32:07 IST" name="Suite" finished-at="2024-03-04T17:35:08 IST" duration-ms="181534">
     <groups>
       <group name="regression">
         <method signature="TC_001_FindDoctors.Find_Doctors()[pri:1, instance:TestCase.TC_001_FindDoctors@1af2d44a]" name="Find_Doctors" class="TestCase.TC_001_FindDoctors"/>
@@ -15,21 +15,21 @@
         <method signature="TC_003_Wellness.CoporatesAndWellness()[pri:3, instance:TestCase.TC_003_Wellness@2c35e847]" name="CoporatesAndWellness" class="TestCase.TC_003_Wellness"/>
       </group> <!-- smoke -->
     </groups>
-    <test started-at="2024-03-04T14:55:06 IST" name="Test" finished-at="2024-03-04T14:58:52 IST" duration-ms="225954">
+    <test started-at="2024-03-04T17:32:07 IST" name="Test" finished-at="2024-03-04T17:35:08 IST" duration-ms="181534">
       <class name="TestCase.TC_003_Wellness">
-        <test-method signature="CoporatesAndWellness()[pri:3, instance:TestCase.TC_003_Wellness@2c35e847]" started-at="2024-03-04T14:57:50 IST" name="CoporatesAndWellness" finished-at="2024-03-04T14:58:50 IST" duration-ms="59531" status="PASS">
+        <test-method signature="CoporatesAndWellness()[pri:3, instance:TestCase.TC_003_Wellness@2c35e847]" started-at="2024-03-04T17:34:01 IST" name="CoporatesAndWellness" finished-at="2024-03-04T17:35:07 IST" duration-ms="65125" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- CoporatesAndWellness -->
       </class> <!-- TestCase.TC_003_Wellness -->
       <class name="TestCase.TC_002_Surgeries">
-        <test-method signature="NoOfSurgeries()[pri:2, instance:TestCase.TC_002_Surgeries@7c24b813]" started-at="2024-03-04T14:57:35 IST" name="NoOfSurgeries" finished-at="2024-03-04T14:57:49 IST" duration-ms="14313" status="PASS">
+        <test-method signature="NoOfSurgeries()[pri:2, instance:TestCase.TC_002_Surgeries@7c24b813]" started-at="2024-03-04T17:33:51 IST" name="NoOfSurgeries" finished-at="2024-03-04T17:34:01 IST" duration-ms="9753" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- NoOfSurgeries -->
       </class> <!-- TestCase.TC_002_Surgeries -->
       <class name="TestCase.TC_001_FindDoctors">
-        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:TestCase.TC_001_FindDoctors@1af2d44a]" started-at="2024-03-04T14:55:08 IST" name="setup" finished-at="2024-03-04T14:55:30 IST" duration-ms="22039" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:TestCase.TC_001_FindDoctors@1af2d44a]" started-at="2024-03-04T17:32:07 IST" name="setup" finished-at="2024-03-04T17:32:41 IST" duration-ms="33584" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -45,11 +45,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="Find_Doctors()[pri:1, instance:TestCase.TC_001_FindDoctors@1af2d44a]" started-at="2024-03-04T14:55:30 IST" name="Find_Doctors" finished-at="2024-03-04T14:57:34 IST" duration-ms="124600" status="PASS">
+        <test-method signature="Find_Doctors()[pri:1, instance:TestCase.TC_001_FindDoctors@1af2d44a]" started-at="2024-03-04T17:32:41 IST" name="Find_Doctors" finished-at="2024-03-04T17:33:51 IST" duration-ms="69557" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Find_Doctors -->
-        <test-method is-config="true" signature="close()[pri:0, instance:TestCase.TC_001_FindDoctors@1af2d44a]" started-at="2024-03-04T14:58:50 IST" name="close" finished-at="2024-03-04T14:58:52 IST" duration-ms="2083" status="PASS">
+        <test-method is-config="true" signature="close()[pri:0, instance:TestCase.TC_001_FindDoctors@1af2d44a]" started-at="2024-03-04T17:35:07 IST" name="close" finished-at="2024-03-04T17:35:08 IST" duration-ms="1332" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- close -->

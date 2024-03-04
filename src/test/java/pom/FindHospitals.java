@@ -99,8 +99,9 @@ public static String[] data;
 		Exp.click();
 		Exp_option.click();
 		}
-	public void filter_fee() {
+	public void filter_fee() throws InterruptedException {
 		All_filters.click();
+		Thread.sleep(5000);
 		Fees.click();
 	}
 	
